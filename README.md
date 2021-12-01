@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JesusCupul23 
 - 🌱 I’m currently learning Python language
-- 💞️ I’m looking to collaborate on to collaborate in a health care project
+- 💞️ I’m looking to collaborate in a health care project
 
 
 <!---
