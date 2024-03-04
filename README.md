@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @JesusCupul23 
 - 🌱 I’m currently learning Python language
+- 🌱 I’m currently learning Javscrip language
 - 💞️ I’m looking to collaborate in a medical devices care project
 
 
